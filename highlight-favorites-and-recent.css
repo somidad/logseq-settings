@@ -1,0 +1,11 @@
+/* mobile */
+div.header.items-center.mb-1 {
+  background-color:ㅍㅁㄱ(--ls-secondary-background-color);
+];
+
+/* PC (width >= 640px) */
+@media (min-width:640px) {
+  div.header.items-center.mb-1 {
+    background-color: var(--ls-tertiary-background-color);
+  }
+}
